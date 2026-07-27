@@ -18,8 +18,7 @@ The dashboard also highlights different property types and listing agents, provi
 🛠 Tools Used:
 Power BI | Data Visualization | Data Cleaning | Business Intelligence
 
-📌 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆:
-GitHub:https://github.com/NandiniSatghare09
-
-#DataAnalytics #Tableau #BusinessIntelligence #MarketAnalysis #DataVisualization #AnalyticsProject #RealEstateAnalytics
+### 6.	Screenshots / Demos
+Show what the dashboard looks like.
+Example: ![Dashboard Preview](https://github.com/NandiniSatghare09/Real_Estate_PowerBi/blob/main/Screenshot%202026-03-11%20202929.png)
 
